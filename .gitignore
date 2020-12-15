@@ -1,0 +1,6 @@
+# Ignore vim files
+*.swp
+*.vim
+# Ignore extracted binary blobs
+*.img
+*.bin
